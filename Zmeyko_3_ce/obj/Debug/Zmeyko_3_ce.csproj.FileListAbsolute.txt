@@ -1,0 +1,6 @@
+c:\users\lexx\documents\visual studio 2015\Projects\Zmeyko_3_ce\Zmeyko_3_ce\bin\Debug\Zmeyko_3_ce.exe.config
+c:\users\lexx\documents\visual studio 2015\Projects\Zmeyko_3_ce\Zmeyko_3_ce\bin\Debug\Zmeyko_3_ce.exe
+c:\users\lexx\documents\visual studio 2015\Projects\Zmeyko_3_ce\Zmeyko_3_ce\bin\Debug\Zmeyko_3_ce.pdb
+c:\users\lexx\documents\visual studio 2015\Projects\Zmeyko_3_ce\Zmeyko_3_ce\obj\Debug\Zmeyko_3_ce.csprojResolveAssemblyReference.cache
+c:\users\lexx\documents\visual studio 2015\Projects\Zmeyko_3_ce\Zmeyko_3_ce\obj\Debug\Zmeyko_3_ce.exe
+c:\users\lexx\documents\visual studio 2015\Projects\Zmeyko_3_ce\Zmeyko_3_ce\obj\Debug\Zmeyko_3_ce.pdb
